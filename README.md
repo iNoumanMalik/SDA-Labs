@@ -1,25 +1,13 @@
-# Pipe and Filter Pattern Implementation in Java
+# Software Architecture and Design Labs
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg)
+![Git](https://img.shields.io/badge/Git-2.25+-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A clean implementation of the Pipe and Filter architectural pattern using Java functional programming features.
+This repository serves as a collection hub for all lab tasks completed in the **Software Architecture and Design** course. Each lab implementation is maintained in its own sub-repository.
 
-## Overview
+## How to Use
 
-This project demonstrates the Pipe and Filter pattern, where data flows through a series of processing steps (filters) connected by pipes. Each filter transforms the data and passes it to the next filter in the pipeline.
-
-## Features
-
-- 🚀 Modular pipeline processor
-- 🔄 Chainable filter operations
-- ⚡ Java Stream API integration
-- 📊 Multiple built-in filters:
-  - Even number filter
-  - Square numbers transformer
-  - Multiplication filter
-  - Threshold filter
-- Easy to extend with new filters
-
-## Run Project
-javac PipeAndFilter.java
-java PipeAndFilter
+1. **Clone the parent repo**:
+   ```bash
+   git clone https://github.com/iNoumanMalik/Software-Architecture-Labs.git
