@@ -10,4 +10,4 @@ This repository serves as a collection hub for all lab tasks completed in the **
 
 1. **Clone the parent repo**:
    ```bash
-   git clone https://github.com/iNoumanMalik/Software-Architecture-Labs.git
+   git clone https://github.com/iNoumanMalik/SDA-Labs.git
